@@ -8,6 +8,7 @@ This script requires the following libraries to be installed:
 
 - requests
 - BeautifulSoup
+- threading
 
 You can install the required libraries using pip:
 `pip install requests beautifulsoup4`
