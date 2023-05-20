@@ -10,7 +10,7 @@ This script requires the following libraries to be installed:
 - BeautifulSoup
 
 You can install the required libraries using pip:
-'pip install requests beautifulsoup4'
+`pip install requests beautifulsoup4`
 
 
 ## Usage 🚀
@@ -22,7 +22,7 @@ To use the script, follow these steps:
 3. Navigate to the directory where the script is located.
 4. Run the following command:
 
-'python main.py'
+`python main.py`
 
 5. The script will prompt you to specify the type of image you want to brute force. You can choose from the following options: PNG, JPG, JPEG, GIF, WEBP, or CUSTOM. If you choose CUSTOM, you will be prompted to enter the extension of the image you want to brute force.
 6. Once you have specified the image type, the script will start brute forcing. It will generate random URLs and check if they lead to a valid image. Valid images will be saved to the `images` directory.
